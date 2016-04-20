@@ -1,0 +1,27 @@
+.classpath
+.project
+config.properties
+
+
+# Package Files #
+
+*.vcf
+*.xls
+*.xlsx
+*.xlsx1
+*.xml
+*.db
+*.log
+*.old
+*.jar
+
+
+# Work directory #
+/bin/
+/.gradle/
+/build/
+/config/
+# Example directory
+/example/
+
+/.settings/
